@@ -8,7 +8,7 @@ Built as part of a Full-Stack Engineering Internship Assignment.
 
 ## 🚀 Live Demo
 
-**Production URL:** https://your-vercel-url.vercel.app
+**Production URL:** https://second-brain-ai-flame.vercel.app
 **GitHub Repo:** https://github.com/VaibhavDasari/second-brain-ai
 
 ---

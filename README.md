@@ -194,3 +194,10 @@ NEXT_PUBLIC_BASE_URL
 
 Vaibhav Dasari
 Full-Stack Developer
+
+## Screenshots
+
+<img src="public/screens/landing.png" alt="Landing" />
+<img src="public/screens/dashboard.png" alt="Dashboard" />
+<img src="public/screens/capture.png" alt="Capture" />
+<img src="public/screens/query.png" alt="Query" />
